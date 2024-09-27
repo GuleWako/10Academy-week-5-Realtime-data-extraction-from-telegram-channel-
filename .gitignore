@@ -3,3 +3,4 @@ venv
 *.session
 *.csv
 *.conll
+.env
